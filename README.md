@@ -49,8 +49,3 @@ This repository contains hands-on data science labs and end-of-course capstone p
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/dyyland23-glitch/Course-4-End-of-course-project-Build-a-multiple-linear-regression-model.git](https://github.com/dyyland23-glitch/Course-4-End-of-course-project-Build-a-multiple-linear-regression-model.git)
